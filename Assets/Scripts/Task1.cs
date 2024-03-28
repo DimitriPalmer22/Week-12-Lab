@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Task1 : MonoBehaviour
 {
-    private static string[] names =
+    public static string[] names =
     {
         "John", "Jane", "Jack",
         "Joe", "Jill", "Jack",
