@@ -7,6 +7,8 @@ public class Task2 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("TASK 2:");
+        
         // Make a list of 15 random names
         List<string> names = new List<string>();
         

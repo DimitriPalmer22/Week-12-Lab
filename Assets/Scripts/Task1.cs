@@ -35,6 +35,8 @@ public class Task1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("TASK 1:");
+        
         // Create the log in queue
         logInQueue = new Queue<Player>();
 
